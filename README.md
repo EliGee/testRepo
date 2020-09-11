@@ -1,3 +1,2 @@
 # testRepo
-Just a test
-Oh thank God I figured out how to edit it.
+I'm working through the tutorial, one leg at a time, just like everyone else.
